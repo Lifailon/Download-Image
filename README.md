@@ -1,6 +1,6 @@
 ## Download-Mandalorian-Art
 
-PowerShell module **Downloadl-Image** for download images (using jobs) and script parsing url and **download all albums Mandalorian art**.
+PowerShell module **Download-Image** for download images (using jobs) and script parsing url and **download all albums Mandalorian art**.
 
 Source art: **[StarWars](https://www.starwars.com/search?q=mandalorian+art)**
 
