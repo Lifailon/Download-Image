@@ -16,7 +16,7 @@ if (Test-Path $path) {
 } else {
     New-Item -ItemType Directory -Path $path
 }
-Invoke-RestMethod https://raw.githubusercontent.com/Lifailon/Download-Image/main/Download-Image.psm1 -OutFile "$path\Download-Image.psm1"
+Invoke-RestMethod https://raw.githubusercontent.com/Lifailon/Download-Image/rsa/Download-Image.psm1 -OutFile "$path\Download-Image.psm1"
 Import-Module Download-Image
 ```
 
@@ -124,4 +124,4 @@ Mandalorian-Episode-24
 
 ### Result
 
-![Image alt](https://github.com/Lifailon/Download-Image/blob/main/albums.jpg)
+![Image alt](https://github.com/Lifailon/Download-Image/blob/rsa/albums.jpg)
