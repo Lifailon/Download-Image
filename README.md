@@ -69,7 +69,7 @@ PS C:\Users\lifailon> (Get-History)[-1].Duration.TotalSeconds
 98,028722
 ```
 
-**It took 98 seconds to download 256 images**
+<!-- It took 98 seconds to download 256 images --!>
 
 ### Check number of of downloaded albums and images:
 
